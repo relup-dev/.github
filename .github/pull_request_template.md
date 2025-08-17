@@ -1,1 +1,56 @@
-Pull request template
+## Description
+
+> Provide a concise summary of the changes introduced in this PR.
+> Explain the reason behind these changes and link to any relevant issues, tickets, or documents.
+
+
+### What is the purpose of this PR?
+- Adds a new feature
+- Fixes an issue [Provide issue link if available]
+  
+---
+
+## Type of change
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that causes existing functionality to change)
+- [ ] Documentation update
+
+---
+
+## Related issues/tickets
+
+- Closes #[issue-number]
+- Connected to [JIRA-ID or ticket link]
+
+---
+
+## Checklist
+
+Ensure your PR fulfills the following requirements:
+- [ ] My code follows the existing style guidelines
+- [ ] I have performed a self-review of my code
+- [ ] My change requires a documentation update and I have updated it accordingly
+
+---
+
+## Testing instructions
+
+> Provide steps to reproduce or validate your changes:
+> 1. Step 1: ...
+> 2. Step 2: ...
+
+---
+
+## Screenshots/demo
+
+> If your change includes a UI update, attach screenshots or a link to a recording.
+
+---
+
+## Additional notes for reviewers
+
+> Anything specific reviewers should be aware of:
+> - Particular edge cases?
+> - Areas needing extra attention?
+> - Dependencies or follow-ups?
