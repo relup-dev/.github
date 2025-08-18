@@ -7,13 +7,14 @@
 ### What is the purpose of this PR?
 - Adds a new feature
 - Fixes an issue [Provide issue link if available]
+- List all the changes so that PR is easily reviewable 
   
 ---
 
 ## Type of change
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that causes existing functionality to change)
+- [ ] Breaking change (fix or feature that causes existing functionality to change) ie. changing of exisiting variables/return values
 - [ ] Documentation update
 
 ---
@@ -31,14 +32,12 @@ Ensure your PR fulfills the following requirements:
 - [ ] My code follows the existing style guidelines
 - [ ] I have performed a self-review of my code
 - [ ] My change requires a documentation update and I have updated it accordingly
+- [ ] No exposed sensitive information/ api keys 
 
 ---
 
 ## Testing instructions
-
-> Provide steps to reproduce or validate your changes:
-> 1. Step 1: ...
-> 2. Step 2: ...
+Provide how you have tested the PR and validated the results
 
 ---
 
