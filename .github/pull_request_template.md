@@ -13,6 +13,7 @@
 
 ## Type of change
 - [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] Enchancement (non-breaking change)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that causes existing functionality to change) ie. changing of exisiting variables/return values
 - [ ] Documentation update
